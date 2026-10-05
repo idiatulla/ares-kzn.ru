@@ -1,0 +1,55 @@
+html #header-navigation > .megamenu ul.sub-menu {
+ 
+  box-shadow: 0px 10px 20px black;
+}
+html #footer-bottom, html #footer-bottom a{
+	text-shadow: 2px 2px 2px black, 2px 2px 2px black;
+
+}
+body{ 
+      background-attachment: fixed;
+}
+.gform_wrapper .gform_footer input.button, .gform_wrapper .gform_footer input[type=submit] {
+  font-size: 16px !important;
+}
+html #page-wrap .ui--tabs-mini-vertical > .ui--tabs-header {
+   margin-top: 12px;
+}
+#mainpage h2{
+   text-shadow: 2px 2px 4px black, 2px 2px 4px black, -1px -1px 2px black;
+}
+.ui--toggle-state-closed {
+  border: 1px solid #45AFBC !important;
+  border-radius: 6px;
+}
+html .heading, html .heading-colorable {
+  font-size: 24px;
+  line-height: 24px;
+}
+i.list-icon {
+  color: #45AFBC;
+}
+table tr th {
+	text-align:center;
+}
+table tr td , table tr th {
+  border: 1px solid #ebebeb;
+  margin: 7px;
+  padding: 7px 14px;
+}
+table {
+    width:100%;
+}
+table tr td:first-child {
+  border-left: 1px solid white;
+  text-align:right;
+}
+table tr td ul li {
+  text-align: left;
+}
+table tr td:last-child {
+  border-right: 1px solid white;
+}
+table tr:hover td{
+  background-color:#f1f1f1
+}

@@ -1,0 +1,24 @@
+/* font-family: "GlametrixRegular"; */
+@font-face {
+    font-family: "GlametrixRegular";
+    src: url(/fonts/GlametrixRegular.woff) format('woff');
+    src: url(/fonts/GlametrixRegular.woff) format('woff');
+    font-style: normal;
+    font-weight: normal;
+}
+/* font-family: "GlametrixBold"; */
+@font-face {
+    font-family: "GlametrixBold";
+    src: url(/fonts/GlametrixBold.woff) format('woff');
+    src: url(/fonts/GlametrixBold.woff) format('woff');
+    font-style: normal;
+    font-weight: normal;
+}
+/* font-family: "GlametrixLight"; */
+@font-face {
+    font-family: "GlametrixLight";
+    src: url(/fonts/GlametrixLight.woff) format('woff');
+    src: url(/fonts/GlametrixLight.woff) format('woff');
+    font-style: normal;
+    font-weight: normal;
+}

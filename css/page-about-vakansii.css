@@ -1,0 +1,10 @@
+@media ( min-width: 979px ) { .modern-browser #header-container.stuck #logo img {height: 42px;  margin-top: 10px !important;  margin-bottom: 10px !important;}  }
+
+
+		#titlebar {  -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;}
+
+		
+
+html #custom-title-h3-1, html #custom-title-h3-1 a {color: #333333 !important;} 
+html #tagline-1 {border-style: solid;  border-width: 1px;  border-color: #ebebeb;} html #tagline-1 > .ui--tagline-background-image {z-index: 1;} html #tagline-1 > .ui--tagline-background-overlay {background-color:#ffffff; background-image: none ;opacity: 1;z-index: 0.02;} html #tagline-1, html #tagline-1 p, html #tagline-1 h1, html #tagline-1 h2, html #tagline-1 h3, html #tagline-1 h4, html #tagline-1 h5, html #tagline-1 h6, html #tagline-1 .heading {color: #333333;} html #tagline-1:hover > .ui--tagline-background-overlay {opacity: 1;} 
+html #page-content .section-8wp3r {background-color:#63524A; background-image: none ;  background-image: url(/img/bg1.jpg); -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; filter: none; -ms-filter: none;  overflow: visible;} html.old-browser #page-content .section-8wp3r {-webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;} html #page-content .section-8wp3r a:hover {text-decoration: underline;} 
